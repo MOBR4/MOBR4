@@ -8,24 +8,24 @@ I am deeply interested in topics such as **Advanced Persistent Threats (APT)**, 
 
 ## 🛠️ Skills & Expertise
 
-- **Cybersecurity**: SIEM solutions, ELK Stack, Wazuh, incident response, and threat hunting.
+- **Defensive Security , SOC**: SIEM solutions, ELK Stack, Wazuh and incident responseg.
 - **Malware Analysis & Reverse Engineering**: Static and dynamic analysis, code injection, shellcode, and exploit development.
-- **Programming Languages**: Python, C, Rust, Assembly, Bash, and experience with embedded systems development.
+- **Programming Languages**: Python, C, Assembly, Bash, and a basic experience with embedded systems development.
 - **Tools & Frameworks**: Genymotion, Drozer, Android SDK, Kali Linux, Wireshark, and Metasploit.
 - **Networking**: SNMP, pcap files, network packet analysis.
-- **DevOps**: Working knowledge of CI/CD pipelines and version control with Git.
+- **DevOps**: Just started learning this side of IT :).
 
 ## 🔍 My Projects
 
-Here are some of the key projects I've been working on:
+Here are SOME of the key projects I've been working on:
 
 ### 1. **CyberSOC with ELK Stack and Wazuh**
    - A full SIEM solution that simulates real-world attack scenarios using the **ELK Stack** (Elasticsearch, Logstash, Kibana) and **Wazuh**.
    - Key skills: **Elasticsearch**, **Logstash**, **Kibana**, **Wazuh**, **threat intelligence**, and **incident response**.
 
-### 2. **Malware Analysis Toolkit**
-   - A set of tools designed for **reverse engineering** and **malware analysis**.
-   - Includes static and dynamic analysis tools, debuggers, and decompilers like **Jadx**, **IDA Pro**, and **Ghidra**.
+### 2. **Malware Analysis of a Zeus Trojan**
+   - A comprehensive analysis of the **Zeus Trojan**, a notorious banking Trojan used in cybercrime.
+   - Includes both **static** and **dynamic** analysis techniques to understand the Trojan’s behavior, functionality, and method of infection.
 
 ### 3. **Android Security Testing**
    - A project aimed at **Android security**, where I used tools such as **Drozer** and **Genymotion** to identify vulnerabilities in mobile apps.
@@ -43,13 +43,13 @@ I am currently exploring the following areas:
 - **Exploit Development**: Crafting **proof-of-concept exploits** and learning how to protect applications from vulnerabilities.
 - **Red Teaming**: Improving skills in penetration testing, vulnerability exploitation, and social engineering tactics.
 - **Homelab Projects**: Setting up various security testing environments and simulations to better understand **network traffic analysis**, **web application security**, and **data breach prevention**.
+- **DevSecOps**: Integrating **security practices into the software development lifecycle (SDLC)** by automating security tests, identifying vulnerabilities, and fostering a security-first mindset within DevOps teams.
 
 ## 🔗 Find Me Elsewhere
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-berkat)
-- **Twitter**: [@MohamedBerkat](https://twitter.com/MohamedBerkat)
-- **Blog**: [My Cybersecurity Blog](https://example.com)
-- **Portfolio**: [Visit My Full Portfolio](https://example.com)
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/mohamed-berkat](https://www.linkedin.com/in/mohamed-berkat/))
+- **Blog**: [My Cybersecurity Blog]([https://example.com](https://medix.gitbook.io/))
+- **Portfolio**: [Visit My Full Portfolio](https://mobr4.github.io)
 
 ## 📬 Get in Touch
 
@@ -57,6 +57,5 @@ Feel free to reach out to me for any collaborations, questions, or discussions r
 
 You can contact me via:
 
-- **Email**: mohamed.berkat@example.com
-
+- **Email**: medberkat4@gmail.com
 Thank you for visiting my GitHub! 🙌
