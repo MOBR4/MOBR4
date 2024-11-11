@@ -47,9 +47,10 @@ I am currently exploring the following areas:
 
 ## 🔗 Find Me Elsewhere
 
-- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/mohamed-berkat](https://www.linkedin.com/in/mohamed-berkat/))
-- **Blog**: [My Cybersecurity Blog]([https://example.com](https://medix.gitbook.io/))
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-berkat/)
+- **Blog**: [My Cybersecurity Blog](https://medix.gitbook.io/)
 - **Portfolio**: [Visit My Full Portfolio](https://mobr4.github.io)
+
 
 ## 📬 Get in Touch
 
