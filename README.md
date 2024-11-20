@@ -1,5 +1,4 @@
-# Mohamed BERKAT's GitHub Portfolio
-
+# Mohamed BERKAT
 Welcome to my GitHub profile! 👋
 
 I am Mohamed Berkat, a passionate **Cybersecurity Engineering Student** with hands-on experience in **malware analysis**, **reverse engineering**, and **security testing**. My journey in the world of cybersecurity and technology spans multiple domains, from **offensive security** to **defensive measures**, and I am constantly looking to push the boundaries of my knowledge.
